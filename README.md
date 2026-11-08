@@ -1,4 +1,4 @@
-# Partners
+#Developers Read First
 
 Custom scripts for developers/partners/exchanges to manage wallets and transactions.
 
